@@ -3,7 +3,8 @@ Small notifier that periodically notifies , how much profit/loss incurred that i
 
 ## Build
 You need Go language compiler installed to compile and use this utility
-first you need terminal-notifier command line utility installed on your mac os to show notification , to istall it use
+
+first you need terminal-notifier command line utility installed on your mac os to show notification , to install it use
 ```
 [sudo] gem install terminal-notifier
 ```
